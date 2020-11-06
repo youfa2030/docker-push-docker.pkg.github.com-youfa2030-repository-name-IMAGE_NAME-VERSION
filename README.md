@@ -1,0 +1,1 @@
+# docker-push-docker.pkg.github.com-youfa2030-repository-name-IMAGE_NAME-VERSION
